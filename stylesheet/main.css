@@ -1,0 +1,46 @@
+
+html {
+    font-size: 100%;
+    box-sizing: border-box;
+}
+* {
+    box-sizing: inherit;
+}
+
+body {
+  background: #F2E9D8;
+}
+
+h1 {
+text-align: center;
+padding-top: 1rem;
+font-family: "Trebuchet MS", "Geneva", "Candara", sans-serif;
+}
+
+#crmap {
+  height: 400px;
+  width: 70%;
+  margin-top: 3rem;
+  border: 1px solid #999;
+  align-items: center;
+  padding-bottom: 1rem;
+}
+#map2 {
+  height: 500px;
+  width: 80%;
+  margin-top: 3rem;
+  border: 1px solid;
+  align-items: center;
+  padding-bottom: 1rem;
+}
+
+p {
+font-family: "Georgia", "Lucida Bright", "Palatino", serif;
+padding-bottom: 1rem;
+padding-top:1rem;
+}
+
+@media screen and (max-width: 600px) {
+   #crmap, #map2
+   { height:200px;}
+}
