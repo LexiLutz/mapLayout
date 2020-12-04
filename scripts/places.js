@@ -16,5 +16,5 @@ places = [{"placeName":"Grand Canyon-Parashant National Monument","description":
 {"placeName":"Pipe Spring National Monument","description":"This area is littered with various types of gardens to explore. ","lat":36.862784,"long":-112.739973},
 {"placeName":"Lost Dutchman State Park","description":"Good area for hiking with the children and spotting wildlife. ","lat":33.459027,"long":-111.487353},
 {"placeName":"Tonto Natural Bridge State Park","description":"A good place to bring the family for a quiet picnic. ","lat":34.322461,"long":-111.454153},
-{"placeName":"Kofa National Wildlife Refuge","description":"Beautiful backdrop for an evening cruise. ","lat":33.459027,"long":113.823176},
+{"placeName":"Kofa National Wildlife Refuge","description":"Beautiful backdrop for an evening cruise. ","lat":33.459027,"long":-113.823176},
 {"placeName":"Coconio National Forest","description":"Forest surrounding a massive lake with several different trails to wander down. ","lat":34.953278,"long":-111.429569}]
